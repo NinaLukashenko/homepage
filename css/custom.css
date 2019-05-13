@@ -1,0 +1,13 @@
+.avatar {
+  border-radius: 2.5%;
+  margin-top: 1.5rem;
+  max-width: 12.5rem;
+}
+
+ul > li:before {
+  content: "";
+}
+
+ul {
+  padding-left: 0;
+}
