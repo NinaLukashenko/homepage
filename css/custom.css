@@ -1,0 +1,11 @@
+.avatar {
+  border-radius: 2.5%;
+  margin-top: 1.5rem;
+  max-width: 12.5rem;
+}
+
+@media screen and (max-width: 991px) {
+  .avatar {
+    max-width: 8.5rem;
+  }
+}
